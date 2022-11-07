@@ -1,0 +1,14 @@
+#footer {
+    background: linear-gradient(90deg, rgb(10, 22, 44), rgb(5, 39, 102));
+    font-color:var(--bs-body-bg)
+}
+#tex3 {
+    color:#e9ecef
+ }
+#nav-item2:hover{
+    color:#198754
+ }
+ 
+ #p1:hover{
+    color:#198754
+  }
